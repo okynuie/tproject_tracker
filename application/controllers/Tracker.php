@@ -9,7 +9,7 @@ class Tracker extends CI_Controller
 
   public function index()
   {
-    $this->load->view('tracker_v');
+    $this->load->view('Tracker_v');
   }
 
 }
